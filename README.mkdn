@@ -1,3 +1,7 @@
+# ALERT!!!
+
+This is an unsupported branch. The master branch will stop supporting svn. If you still use svn, use this code as a plugin in your Rails app. Warnings may happen because of deprecated stuff.
+
 # Integration
 
 ## What
